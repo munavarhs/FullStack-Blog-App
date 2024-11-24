@@ -15,7 +15,6 @@ This project is a **Blog Application** built using the **MERN Stack** (MongoDB, 
 ### **Post Management**
 - **Create New Posts**: Users can compose posts using a rich text editor (**React Quill**) with advanced formatting options.
 - **Edit Existing Posts**: Edit content, update summaries, and modify uploaded images dynamically.
-- **Delete Posts**: Remove unwanted posts from the platform.
 - **View Posts**: A clean and responsive interface to display blog content.
 
 ### **File Upload**
@@ -70,8 +69,6 @@ This project is a **Blog Application** built using the **MERN Stack** (MongoDB, 
 - **Edit Post**:
   - Modify post content, title, summary, or image.
   - Authorization ensures only the original author can edit the post.
-- **Delete Post**:
-  - Authenticated authors can delete their posts.
 
 ---
 
