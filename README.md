@@ -91,5 +91,5 @@ This project is a **Blog Application** built using the **MERN Stack** (MongoDB, 
 
 1. Clone the repository:
    bash
-   git clone https://github.com/username/blog-app-mern.git
-   cd blog-app-mern
+   git clone https://github.com/munavarhs/FullStack-Blog-App.git
+   cd FullStack-Blog-App
